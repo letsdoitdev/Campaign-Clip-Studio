@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  /* Single accent color per the design direction in BUILD_PLAN.md */
+  --color-accent: #2563eb;
+  --color-accent-hover: #1d4ed8;
+}
